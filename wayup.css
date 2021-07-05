@@ -1,0 +1,178 @@
+html {
+
+    background: url(mg/7ef69520-b324-49bb-b22a-47495940b81f.jpeg) no-repeat center center fixed;
+
+    -webkit-background-size: cover;
+
+    -moz-background-size: cover;
+
+    -o-background-size: cover;
+
+     background-size: cover;
+
+}
+body {
+	background-image: url(img/); 
+}
+.container {
+	width: 1200px;
+	height: 900px;
+	margin: 0 auto;
+}
+.header {
+	margin-top: 0;
+	background: #F0FFEE;
+}
+li {
+     float: left; /*Задаем обтекание*/
+     line-height: 13px;/*Высота строки +  верт. центрирования текста*/
+     font-size: 18px;
+     padding: 
+     width: 114px; /*Фиксируем ширину блока*/
+     margin-right: 10px;
+     text-align: center; /*Центрируем текст по горизонтали*/
+ 	 font-family: 'Radley', serif;
+ 	 color: white;
+ 	 padding: auto;
+ }
+.main {
+	margin: -70px 150px auto
+	250px;
+	width: 114px;
+	height: 13px;
+}
+.about_coffee {
+	margin: -13px auto auto 514px;
+	width: 92px;
+	height: 20px;
+}
+.catalog {
+	margin: -20px 277px auto
+	756px;
+	width: 107px;
+	height: 20px;
+}
+a {
+	text-decoration: none;
+	color: black;
+}
+.basket {
+	margin: -85px auto auto 1021px;
+}
+h1:hover {
+	font-size: 78px;
+}
+.koffeeon {
+	margin: 32px auto auto 763px;
+}
+.koffeeon:hover {
+	transform: scale(1.03);
+}
+.button {
+	width: 227px;
+	height: 121px;
+	margin: 308px auto auto 214px;
+}
+.begin {
+	background: #F0FFEE;
+}
+h2 {
+	width: 330px;
+	height: 89px;
+	font-size: 18px;
+	font-family: 'Open Sans', sans-serif;
+	text-align: center;
+	margin: -647px auto auto 153px;
+	letter-spacing: 3.5px;
+	line-height: 96%;
+}
+h1	{
+	font-family: 'Roboto', sans-serif;
+	color: #143A0A;
+	background-color: transparent;
+	position: absolute;
+	width: 550px;
+	height: 207px;
+	font-size: 75px;
+	/*размер букв*/
+	text-align: center;
+	/*положение слов относительно друг друга*/
+	letter-spacing: 3px;
+	 /*расстояние мнжду буквами*/
+	line-height: 98%;
+	/*расстрояние между строками*/
+	 margin: 26px auto auto 53px;
+	 /*отступ сверху*/
+}
+.nav {
+	width: 1200px;
+	height: 111px;
+	margin-right: auto;
+	margin-left: auto;
+	background: #F0FFEE;
+}
+.two {
+	width: 1200px;
+	height: 900px;
+	background: #D3FFFC;
+	margin-top: -255px;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 40px;
+}
+.coffeethree {
+	width: 700px;
+	padding-top: 68px;
+	background: #D3FFFC;
+}
+.text_top {
+	width: 522px;
+	height: 138px;
+	text-align: center;
+	margin: -259.75px 0 auto 678px;
+	background: #D3FFFC;
+}
+.acupofcoffee{
+	margin-top:147px;
+	margin-left:518px;
+	background: #D3FFFC;
+}
+.text_buttom {
+	width: 387px;
+	height: 76px;
+	margin-top: -245px;
+	background: #D3FFFC; 
+}
+.tree {
+
+}
+.catalog_coffee {
+	margin: 52px 35px; 
+}
+.blackR {
+	margin: 10px auto auto 84px;
+}
+.greenR{
+	margin-top:-140px;
+	margin-left: 524px;
+}
+.whiteR{
+	margin-top: -150px;
+	margin-left: 964px;
+}
+.cop {
+	width: 218px;
+	height: 21px;
+	font-family: 'Nunito', sans-serif;
+	font-size: 14px;
+	margin: 97px auto 30px 70px;
+	background: 000;
+}
+.tel {
+	margin: -70px auto auto 800px;
+	text-decoration: none;
+	color: #3D5F91;
+	padding: 10px;
+}
+.tel_text {
+	color: #3D5F91;
+}
